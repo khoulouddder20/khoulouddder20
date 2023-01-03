@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khoulouddder20
-- 👀 I’m interested in Deep Learning, CNNs
-- 🌱 I’m currently learning Networks , deseing , programmation ... 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m currently learning AI,ML,DL,CNN
+- 🌱
+- 💞️ I’m looking to collaborate on CNN
 - 📫 How to reach me ...
 
 <!---
