@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khoulouddder20
 - 👀 I’m currently learning AI,ML,DL,CNN
-- 🌱
+- 🌱 I’m currently studing on computer science
 - 💞️ I’m looking to collaborate on CNN
 - 📫 How to reach me ...
 
