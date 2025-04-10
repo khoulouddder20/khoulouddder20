@@ -1,7 +1,7 @@
 👋 Hi, I’m @khoulouddder20
-🔧 I am a Network Engineer with a keen interest in Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Convolutional Neural Networks (CNN), and Python.
+🔧 I am a Network Engineer with a keen interest in Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Convolutional Neural Networks (CNN).
 🎓 I am currently pursuing studies in Computer Science.
-🌱 I am actively exploring collaborations in the field of CNN and AI.
+🌱🔗 I am eager to collaborate on projects related to deep learning, machine learning, and network optimization.
 📫 Feel free to reach out to me through GitHub for collaboration opportunities.
 
 <!---
